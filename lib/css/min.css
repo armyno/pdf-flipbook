@@ -1391,8 +1391,8 @@ section.linkAnnotation a .annotationLayer>a {
 
 ._df_books ._df_thumb,
 ._df_books .df-dummy {
-    width: 140px;
-    height: 200px;
+    width: 204px;
+    height: 285px;
     text-align: center;
     display: inline-block;
     position: relative;
@@ -1417,7 +1417,6 @@ section.linkAnnotation a .annotationLayer>a {
     height: 100%;
     width: 100%;
     -webkit-transform-origin: left;
-    transform-origin: left;
     top: 0;
     background-color: #eee;
     position: relative;
